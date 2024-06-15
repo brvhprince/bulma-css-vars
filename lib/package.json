@@ -1,5 +1,5 @@
 {
-  "name": "bulma-css-vars",
+  "name": "@pennycodes/bulma-css-vars",
   "version": "0.8.0",
   "description": "Bulma with CSS variables",
   "keywords": [
@@ -38,7 +38,7 @@
   "author": "Thomas Wirth <thomas@wtho.de>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wtho/bulma-css-vars"
+    "url": "https://github.com/brvhprince/bulma-css-vars"
   },
   "license": "MIT",
   "engines": {
